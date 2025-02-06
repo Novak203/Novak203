@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Novak203
-- 👀 I’m interested in making games and desktop applications
-- 🌱 I’m currently learning Java, C# and C++
-- 💞️ I’m looking to collaborate on unity games
+- 👀 I’m interested in coding random stuff, mostly games in unity
+- 🌱 I’m currently learning Java, C# and JavaScript
 - 📫 How to reach me ghero23@interia.pl
 
 <!---
