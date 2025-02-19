@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Novak203
-- 👀 I’m interested in coding random stuff, mostly games in unity
-- 🌱 I’m currently learning Java, C# and JavaScript
-- 📫 How to reach me ghero23@interia.pl
+- :star2: I'm mostly interested in gamedev but I do want to start making web applications as well
+- :muscle: I have over 6 years of experience in the UnityEngine!
+- :fire: I’m currently learning LibGDX, and JavaScript
+- 📫 Reach me at: novak203@interia.pl
 
 <!---
 Novak203/Novak203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
