@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Novak203
-- :star2: I'm mostly interested in gamedev but I do want to start making web applications as well
+- :star2: I'm mostly interested in gamedev but I do want to start making web applications and websites as well
+- ⭐ When releasing games I go by the name of "Decennium Studio" (not an actual studio btw)
 - :muscle: I have over 6 years of experience in the UnityEngine!
 - :fire: I’m currently learning LibGDX, and JavaScript
 - 📫 Reach me at: novak203@interia.pl
